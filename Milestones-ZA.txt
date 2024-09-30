@@ -1,0 +1,4 @@
+1 hour: Researched game design and tools/libraries we might need
+2 hours: Studied python/game making libraries, GUI stuff
+1 hour: Met with group on sunday to discuss where we were, decide on libraries we wanted to use, how we want to divide responsibilites
+Lab - 1 hour: got together with group members to align and decide next steps for project
