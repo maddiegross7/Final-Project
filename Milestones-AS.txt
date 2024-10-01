@@ -1,4 +1,5 @@
 2 hours: Learning Python libraries to implment animations and visuals
 1 hour: Reseaching game making softwares for the mini games like unity and unreal
-1 hour: Met on sunday to talk about the stuff we learned and decide which libraries we wanted to use and how we want to divide responsibilites
+1 hour: Met on sunday to talk about the stuff we learned and decide which libraries 
+    we wanted to use and how we want to divide responsibilites
 Lab - 1 hour: got together with group members to align and decide next steps for project
