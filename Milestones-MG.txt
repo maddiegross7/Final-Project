@@ -3,3 +3,21 @@
      we want to divide responsibilites, installing took a long time
 1 hour: made something that will pop up and now we can change the way it looks
 Lab - 1 hour: got together with group members to align and decide next steps for project
+
+https://github.com/maddiegross7/Final-Project
+
+Executable in main.py
+
+Rubric:
+
+attend all group meetings - can miss 1 : 2 pts each (1 meeting/week, 6 total?) 12 pts possible - 10 pts needed
+2 mini games complete: 7 points each, 14 points total
+contribute to main games development to satisfactory amount, what is assigned, can be changed to something else if needed: 10 pts
+help design UI and check for bugs: 6 pts
+
+This challenge reflection:
+Okay I get the point of this project but honestly it was poorly timed and I felt unnecessary with all that was happening this week
+this was the last thing I wanted to worry about because I have 3 exams this superball lab and the engineering expo and this just did not 
+seem that important, we tried our best to get something started but what we have is a reflection of the amount of time we had to begin this
+I think that the thought to get us started early was nice but I would have been fine to start after fall break. sorry this seems a little
+passive aggressive reading this now but I am tired and still have lots to do tonight :)
