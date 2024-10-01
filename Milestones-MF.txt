@@ -1,4 +1,20 @@
+Time Log:
 1.5 hours: learning about python/watching videos on how it compares to c++
 1.5 hours: researching popular mini games and software techniques to build them
 1 hour: Met on sunday to talk about the stuff we learned and decide which libraries we wanted to use and how we want to divide responsibilites
 Lab - 1 hour: got together with group members to align and decide next steps for project
+
+Github Repo:
+https://github.com/maddiegross7/Final-Project
+
+Executable in main.py
+
+Rubric:
++10 attend all meetings except if a valid excuse is provided
++15 2-3 mini games that reward coins to player (5 points each)
++10 no bugs in code
++5 proper comments
++12 even contribution from all group members
+
+Reflection: 
+The fact that this challenge was so early in the semester really helped me get ahead for the final, and gave me a chance to talk with my group members. I appreciate this especially since I am prone to procrastinating. However, the timing of this challenge was not ideal considering I, along with many other students, have three exams AND the engineering expo AND superball all due this week. I don't understand why this couldn't have waited until after fall break, but I'm sure you have your reasons:)
